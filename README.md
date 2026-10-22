@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd Year BCA Student<br>💻 Passionate about Web Development<br>🌱 Currently learning React.js<br>⚡ Love creating responsive and modern websites<br>📚 Exploring Full Stack Development<br>🚀 Goal: Become a Professional Full Stack Developer
+🎓 BCA Student<br>💻 Passionate about Web Development<br>🌱 Currently learning React.js<br>⚡ Love creating responsive and modern websites<br>📚 Exploring Full Stack Development<br>🚀 Goal: Become a Professional Full Stack Developer
 
 
 ## 🌐 Socials:
